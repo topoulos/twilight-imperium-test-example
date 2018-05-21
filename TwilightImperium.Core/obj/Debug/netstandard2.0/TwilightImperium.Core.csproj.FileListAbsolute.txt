@@ -1,0 +1,9 @@
+C:\Users\A3-WILSON\Documents\Visual Studio 2017\Projects\TwilightImperium\TwilightImperium.Core\bin\Debug\netstandard2.0\TwilightImperium.Core.deps.json
+C:\Users\A3-WILSON\Documents\Visual Studio 2017\Projects\TwilightImperium\TwilightImperium.Core\bin\Debug\netstandard2.0\TwilightImperium.Core.dll
+C:\Users\A3-WILSON\Documents\Visual Studio 2017\Projects\TwilightImperium\TwilightImperium.Core\bin\Debug\netstandard2.0\TwilightImperium.Core.pdb
+C:\Users\A3-WILSON\Documents\Visual Studio 2017\Projects\TwilightImperium\TwilightImperium.Core\obj\Debug\netstandard2.0\TwilightImperium.Core.csprojResolveAssemblyReference.cache
+C:\Users\A3-WILSON\Documents\Visual Studio 2017\Projects\TwilightImperium\TwilightImperium.Core\obj\Debug\netstandard2.0\TwilightImperium.Core.csproj.CoreCompileInputs.cache
+C:\Users\A3-WILSON\Documents\Visual Studio 2017\Projects\TwilightImperium\TwilightImperium.Core\obj\Debug\netstandard2.0\TwilightImperium.Core.AssemblyInfoInputs.cache
+C:\Users\A3-WILSON\Documents\Visual Studio 2017\Projects\TwilightImperium\TwilightImperium.Core\obj\Debug\netstandard2.0\TwilightImperium.Core.AssemblyInfo.cs
+C:\Users\A3-WILSON\Documents\Visual Studio 2017\Projects\TwilightImperium\TwilightImperium.Core\obj\Debug\netstandard2.0\TwilightImperium.Core.dll
+C:\Users\A3-WILSON\Documents\Visual Studio 2017\Projects\TwilightImperium\TwilightImperium.Core\obj\Debug\netstandard2.0\TwilightImperium.Core.pdb
